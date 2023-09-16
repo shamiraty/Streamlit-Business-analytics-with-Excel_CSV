@@ -1,5 +1,4 @@
 # Streamlit-Business-analytics-with-Excel_CSV
-# Streamlit-Business-analytics-with-MS excel 
 
 you will learn how to create an analytics website dashboard using Python and the Streamlit library. We will use a Excel database to store the data, and we will use Streamlit to create an interactive dashboard that allows us to visualize and explore the data.
 
@@ -18,7 +17,7 @@ you will learn how to create an analytics website dashboard using Python and the
 
  # screenshorts
 ![a](https://github.com/shamiraty/Streamlit-Business-analytics-with-Excel_CSV/assets/129072179/6f6b31cc-8d4a-4de8-9047-7d48fa770caa)
-![a](https://github.com/shamiraty/Streamlit-Business-analytics-with-Excel_CSV/assets/129072179/e0d0c6c7-490b-450e-89f6-1d1ecf8aa556)
+![b](https://github.com/shamiraty/Streamlit-Business-analytics-with-Excel_CSV/assets/129072179/89ae59c1-ca72-4e29-8c77-1580cd972af1)
 ![d](https://github.com/shamiraty/Streamlit-Business-analytics-with-Excel_CSV/assets/129072179/100c25cd-b553-4408-85e9-becd8efc3fb5)
 ![4](https://github.com/shamiraty/Streamlit-Business-analytics-with-MySQL/assets/129072179/31751758-8ffa-46ad-bbc7-7ddd0806ab91)
 ![6](https://github.com/shamiraty/Streamlit-Business-analytics-with-MySQL/assets/129072179/d2dbb687-e686-45a2-bce3-c4a08623f066)
