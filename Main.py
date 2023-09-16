@@ -51,7 +51,8 @@ def metrics():
 
  col3.metric(label="Annual Salary", value= f"{ df_selection.AnnualSalary.max()-df.AnnualSalary.min():,.0f}",delta="Annual Salary Range")
 
- style_metric_cards(background_color="#071021",border_left_color="#1f66bd")
+ style_metric_cards(background_color="#7500fa",border_left_color="#f20045",box_shadow="3px")
+
 
 #create divs
 div1, div2=st.columns(2)
